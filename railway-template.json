@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/vergissberlin/railway/main/docs/railway-template.schema.json",
+  "schemaVersion": 1,
+  "project": "railwayapp-fastapi",
+  "repo": "vergissberlin/railwayapp-fastapi",
+  "displayName": "FastAPI",
+  "publishedCode": "fastapi-vb",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-fastapi/main/template-header.svg",
+  "description": "Deploy FastAPI on Railway with Uvicorn and health check endpoint.",
+  "workspaceAutomation": false
+}

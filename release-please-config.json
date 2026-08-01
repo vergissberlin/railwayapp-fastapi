@@ -13,6 +13,21 @@
       "hidden": false
     },
     {
+      "type": "perf",
+      "section": "Performance Improvements",
+      "hidden": false
+    },
+    {
+      "type": "deps",
+      "section": "Dependencies",
+      "hidden": false
+    },
+    {
+      "type": "revert",
+      "section": "Reverts",
+      "hidden": false
+    },
+    {
       "type": "refactor",
       "section": "Refactoring",
       "hidden": false
@@ -23,8 +38,23 @@
       "hidden": false
     },
     {
+      "type": "style",
+      "section": "Styles",
+      "hidden": false
+    },
+    {
       "type": "test",
       "section": "Tests",
+      "hidden": false
+    },
+    {
+      "type": "build",
+      "section": "Build System",
+      "hidden": false
+    },
+    {
+      "type": "ci",
+      "section": "Continuous Integration",
       "hidden": false
     },
     {

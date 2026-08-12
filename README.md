@@ -6,6 +6,14 @@ Minimal FastAPI app with Uvicorn for Railway.
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/fastapi-vb?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
+## 🏗️ Architecture
+
+```mermaid
+flowchart LR
+    Client(["🌐 Client"]) -->|HTTPS| Domain["Railway Public Domain"]
+    Domain -->|"$PORT"| App["Container\npython:3.12-slim\n(uvicorn + FastAPI)"]
+```
+
 ## Environment
 
 | Variable | Description |

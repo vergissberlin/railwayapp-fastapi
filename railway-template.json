@@ -5,7 +5,8 @@
   "repo": "vergissberlin/railwayapp-fastapi",
   "displayName": "FastAPI",
   "publishedCode": "fastapi-vb",
-  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-fastapi/main/template-header.svg",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-fastapi/main/logo-fastapi.svg",
   "description": "Deploy FastAPI on Railway with Uvicorn and health check endpoint.",
-  "workspaceAutomation": false
+  "workspaceAutomation": false,
+  "logoFile": "logo-fastapi.svg"
 }

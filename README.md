@@ -27,6 +27,10 @@ docker build -t railwayapp-fastapi .
 docker run --rm -p 8000:8000 -e PORT=8000 railwayapp-fastapi
 ```
 
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/fast-api-9f964716).
+
 <!-- footer -->
 ---
 

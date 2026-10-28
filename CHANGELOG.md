@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.1.3](https://github.com/vergissberlin/railwayapp-fastapi/compare/v0.1.2...v0.1.3) (2026-10-28)
+
+
+### Documentation
+
+* fix Railway deploy button link and add template forum link ([#20](https://github.com/vergissberlin/railwayapp-fastapi/issues/20)) ([1c30c65](https://github.com/vergissberlin/railwayapp-fastapi/commit/1c30c6541dce52d833d4e8691902d26564db1121))
+
+
+### Chores
+
+* **deps:** update dependency fastapi to v0.162.0 ([#18](https://github.com/vergissberlin/railwayapp-fastapi/issues/18)) ([2dd4a58](https://github.com/vergissberlin/railwayapp-fastapi/commit/2dd4a58a4b0247cd1294e40acfb55a3544819507))
+* **deps:** update dependency uvicorn to v0.54.0 ([#17](https://github.com/vergissberlin/railwayapp-fastapi/issues/17)) ([8bde015](https://github.com/vergissberlin/railwayapp-fastapi/commit/8bde015408891b8f1088813fc3d26a4aa85a6500))
+* **deps:** update python docker tag to v3.15 ([#19](https://github.com/vergissberlin/railwayapp-fastapi/issues/19)) ([570f415](https://github.com/vergissberlin/railwayapp-fastapi/commit/570f415ddf453226b497d8eb4ee8f6ad46dc3162))
+
 ## [0.1.2](https://github.com/vergissberlin/railwayapp-fastapi/compare/v0.1.1...v0.1.2) (2026-08-20)
 
 

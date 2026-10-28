@@ -4,7 +4,7 @@
 
 Minimal FastAPI app with Uvicorn for Railway.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/fastapi-vb?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/fastapi?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## 🏗️ Architecture
 
@@ -26,6 +26,10 @@ flowchart LR
 docker build -t railwayapp-fastapi .
 docker run --rm -p 8000:8000 -e PORT=8000 railwayapp-fastapi
 ```
+
+## 💬 Support
+
+Questions or feedback? Visit the [template forum on Railway Central Station](https://station.railway.com/templates/fast-api-9f964716).
 
 <!-- footer -->
 ---

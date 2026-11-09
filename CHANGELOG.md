@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/vergissberlin/railwayapp-fastapi/compare/v0.1.3...v0.1.4) (2026-11-09)
+
+
+### Chores
+
+* **deps:** update dependency fastapi to v0.162.2 ([#22](https://github.com/vergissberlin/railwayapp-fastapi/issues/22)) ([2de330f](https://github.com/vergissberlin/railwayapp-fastapi/commit/2de330f12e1e763852eb2c62862a8e71fda9388c))
+
 ## [0.1.3](https://github.com/vergissberlin/railwayapp-fastapi/compare/v0.1.2...v0.1.3) (2026-10-28)
 
 
